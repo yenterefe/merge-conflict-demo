@@ -8,3 +8,8 @@ let createNew = function () {
 createNew();
 
 
+function thirdFunction() {
+    console.log("this is should def create more conflict- hopefully");
+
+}
+
