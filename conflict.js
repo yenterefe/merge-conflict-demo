@@ -13,3 +13,7 @@ function thirdFunction() {
 
 }
 
+
+function salut() {
+    console.log("c'est comment? Ca va?");
+}
