@@ -13,3 +13,14 @@ function thirdFunction() {
 
 }
 
+
+thirdFunction();
+
+
+function hello() {
+    console.log("hello");
+}
+
+function bonjour() {
+    console.log("bonjour monsieur");
+}
