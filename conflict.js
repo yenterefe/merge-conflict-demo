@@ -1,18 +1,11 @@
-let original = "conflict";
+console.log("hello world");
 
-let createNew = function () {
-    console.log("this is the original function");
+function computeSquare(x) {
+  return x * x;
 }
 
-
-createNew();
-
-
-function thirdFunction() {
-    console.log("this is should def create more conflict- hopefully");
-
-}
-
+/* I'm not 100% sure what I want to put but this is
+a multi-line comment as I try to force a merge conflict condition */
 
 thirdFunction();
 
